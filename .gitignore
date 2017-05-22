@@ -1,5 +1,7 @@
 .idea
 
 *.yaml
+*.yml
+
 *.json
 !cfn-test.json
