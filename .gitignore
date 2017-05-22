@@ -1,0 +1,5 @@
+.idea
+
+*.yaml
+*.json
+!cfn-test.json
